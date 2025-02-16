@@ -4632,896 +4632,1041 @@ var Ms = (rt, St, it) => (St in rt ? vl(rt, St, { enumerable: !0, configurable: 
             };
         })(),
         hl = {
-            desktop: {
-                logo: {
-                    logo: {
-                        left: "45%",
-                        top: "30%",
-                        scale: "1.9"
+            "desktop": {
+                "logo": {
+                    "logo": {
+                        "left": "45%",
+                        "top": "30%",
+                        "scale": "1.9"
                     },
-                    imad: {
-                        left: "46%",
-                        top: "22%",
-                        scale: "0.9"
+                    "imad": {
+                        "left": "46%",
+                        "top": "22%",
+                        "scale": "0.9"
                     },
-                    peter: {
-                        left: "9%",
-                        top: "51%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "9%",
+                        "top": "51%",
+                        "scale": "0.9"
                     },
-                    sean: {
-                        left: "12%",
-                        top: "38%",
-                        scale: "0.9"
+                    "sean": {
+                        "left": "12%",
+                        "top": "38%",
+                        "scale": "0.9"
                     },
-                    ilan: {
-                        left: "53%",
-                        top: "60%",
-                        scale: "1.1"
+                    "ilan": {
+                        "left": "53%",
+                        "top": "60%",
+                        "scale": "1.1"
                     },
-                    gnash: {
-                        left: "60%",
-                        top: "13%",
-                        scale: "0.8"
+                    "gnash": {
+                        "left": "60%",
+                        "top": "13%",
+                        "scale": "0.8"
                     },
-                    maddy: {
-                        left: "46%",
-                        top: "16%",
-                        scale: "0.8"
+                    "maddy": {
+                        "left": "46%",
+                        "top": "16%",
+                        "scale": "0.8"
                     },
-                    daniel: {
-                        left: "9%",
-                        top: "51%",
-                        scale: "0.9"
+                    "daniel": {
+                        "left": "9%",
+                        "top": "51%",
+                        "scale": "0.9"
                     },
-                    gnash_rc: {
-                        left: "68%",
-                        top: "39%",
-                        scale: "0.9"
+                    "gnash_rc": {
+                        "left": "68%",
+                        "top": "39%",
+                        "scale": "0.9"
                     },
-                    lily: {
-                        left: "44%",
-                        top: "17%",
-                        scale: "0.8"
+                    "lily": {
+                        "left": "44%",
+                        "top": "17%",
+                        "scale": "0.8"
                     },
-                    juliana: {
-                        left: "47%",
-                        top: "57%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "47%",
+                        "top": "57%",
+                        "scale": "0.8"
                     },
-                    mover: {
-                        left: "50%", // Example value
-                        top: "50%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "15.9%",
+                        "top": "30.8%",
+                        "scale": "0.97"
                     }
                 },
-                imad: {
-                    logo: {
-                        left: "15%",
-                        top: "20%",
-                        scale: "0.99"
+                "imad": {
+                    "logo": {
+                        "left": "15%",
+                        "top": "20%",
+                        "scale": "0.99"
                     },
-                    imad: {
-                        left: "35%",
-                        top: "48%",
-                        scale: "1.2"
+                    "imad": {
+                        "left": "35%",
+                        "top": "48%",
+                        "scale": "1.2"
                     },
-                    peter: {
-                        left: "13%",
-                        top: "17%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "13%",
+                        "top": "17%",
+                        "scale": "0.9"
                     },
-                    juliana: {
-                        left: "26%",
-                        top: "60%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "26%",
+                        "top": "60%",
+                        "scale": "0.8"
                     },
-                    sean: {
-                        left: "67%",
-                        top: "50%",
-                        scale: "0.8"
+                    "sean": {
+                        "left": "67%",
+                        "top": "50%",
+                        "scale": "0.8"
                     },
-                    ilan: {
-                        left: "16%",
-                        top: "47%",
-                        scale: "0.7"
+                    "ilan": {
+                        "left": "16%",
+                        "top": "47%",
+                        "scale": "0.7"
                     },
-                    gnash: {
-                        left: "65%",
-                        top: "32%",
-                        scale: "0.75"
+                    "gnash": {
+                        "left": "65%",
+                        "top": "32%",
+                        "scale": "0.75"
                     },
-                    mover: {
-                        left: "40%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "33.9%",
+                        "top": "5.1%",
+                        "scale": "0.88"
                     }
                 },
-                peter: {
-                    logo: {
-                        left: "24%",
-                        top: "49%",
-                        scale: "0.83"
+                "peter": {
+                    "logo": {
+                        "left": "24%",
+                        "top": "49%",
+                        "scale": "0.83"
                     },
-                    imad: {
-                        left: "55%",
-                        top: "38%",
-                        scale: "0.6"
+                    "imad": {
+                        "left": "55%",
+                        "top": "38%",
+                        "scale": "0.6"
                     },
-                    peter: {
-                        left: "36%",
-                        top: "33%",
-                        scale: "1.2"
+                    "peter": {
+                        "left": "36%",
+                        "top": "33%",
+                        "scale": "1.2"
                     },
-                    juliana: {
-                        left: "28%",
-                        top: "9%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "28%",
+                        "top": "9%",
+                        "scale": "0.8"
                     },
-                    sean: {
-                        left: "23%",
-                        top: "54%",
-                        scale: "0.7"
+                    "sean": {
+                        "left": "23%",
+                        "top": "54%",
+                        "scale": "0.7"
                     },
-                    ilan: {
-                        left: "34%",
-                        top: "44%",
-                        scale: "1"
+                    "ilan": {
+                        "left": "34%",
+                        "top": "44%",
+                        "scale": "1"
                     },
-                    gnash: {
-                        left: "22%",
-                        top: "18%",
-                        scale: "0.9"
+                    "gnash": {
+                        "left": "22%",
+                        "top": "18%",
+                        "scale": "0.9"
                     },
-                    mover: {
-                        left: "30%", // Example value
-                        top: "35%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "31.7%",
+                        "top": "71.0%",
+                        "scale": "0.86"
                     }
                 },
-                sean: {
-                    logo: {
-                        left: "57%",
-                        top: "66%",
-                        scale: "0.83"
+                "mover": {
+                    "logo": {
+                        "left": "39%",
+                        "top": "64%",
+                        "scale": "0.83"
                     },
-                    imad: {
-                        left: "65%",
-                        top: "13%",
-                        scale: "0.84"
+                    "imad": {
+                        "left": "55%",
+                        "top": "60%",
+                        "scale": "0.6"
                     },
-                    peter: {
-                        left: "50%",
-                        top: "2%",
-                        scale: "0.8"
+                    "peter": {
+                        "left": "55%",
+                        "top": "70%",
+                        "scale": "1.2"
                     },
-                    juliana: {
-                        left: "60%",
-                        top: "59%",
-                        scale: "0.6"
+                    "juliana": {
+                        "left": "28%",
+                        "top": "9%",
+                        "scale": "0.8"
                     },
-                    sean: {
-                        left: "44%",
-                        top: "54%",
-                        scale: "1.2"
+                    "sean": {
+                        "left": "65%",
+                        "top": "10%",
+                        "scale": "0.7"
                     },
-                    ilan: {
-                        left: "65%",
-                        top: "32%",
-                        scale: "0.8"
+                    "ilan": {
+                        "left": "-6%",
+                        "top": "25%",
+                        "scale": "1"
                     },
-                    gnash: {
-                        left: "30%",
-                        top: "61%",
-                        scale: "0.8"
+                    "gnash": {
+                        "left": "56%",
+                        "top": "65%",
+                        "scale": "0.9"
                     },
-                    mover: {
-                        left: "45%", // Example value
-                        top: "50%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "34.4%",
+                        "top": "40.3%",
+                        "scale": "0.86"
                     }
                 },
-                ilan: {
-                    logo: {
-                        left: "71%",
-                        top: "41%",
-                        scale: "0.83"
+                "sean": {
+                    "logo": {
+                        "left": "57%",
+                        "top": "66%",
+                        "scale": "0.83"
                     },
-                    imad: {
-                        left: "13%",
-                        top: "58%",
-                        scale: "0.9"
+                    "imad": {
+                        "left": "65%",
+                        "top": "13%",
+                        "scale": "0.84"
                     },
-                    peter: {
-                        left: "24%",
-                        top: "67%",
-                        scale: "0.75"
+                    "peter": {
+                        "left": "50%",
+                        "top": "2%",
+                        "scale": "0.8"
                     },
-                    juliana: {
-                        left: "9%",
-                        top: "38%",
-                        scale: "1"
+                    "juliana": {
+                        "left": "60%",
+                        "top": "59%",
+                        "scale": "0.6"
                     },
-                    sean: {
-                        left: "56%",
-                        top: "18%",
-                        scale: "0.95"
+                    "sean": {
+                        "left": "44%",
+                        "top": "54%",
+                        "scale": "1.2"
                     },
-                    ilan: {
-                        left: "46%",
-                        top: "8%",
-                        scale: "1.2"
+                    "ilan": {
+                        "left": "65%",
+                        "top": "32%",
+                        "scale": "0.8"
                     },
-                    gnash: {
-                        left: "16%",
-                        top: "45%",
-                        scale: "0.65"
+                    "gnash": {
+                        "left": "30%",
+                        "top": "61%",
+                        "scale": "0.8"
                     },
-                    mover: {
-                        left: "50%", // Example value
-                        top: "30%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "60.0%",
+                        "top": "55.0%",
+                        "scale": "0.84"
                     }
                 },
-                gnash: {
-                    logo: {
-                        left: "71%",
-                        top: "2%",
-                        scale: "0.91"
+                "ilan": {
+                    "logo": {
+                        "left": "71%",
+                        "top": "41%",
+                        "scale": "0.83"
                     },
-                    imad: {
-                        left: "18%",
-                        top: "27%",
-                        scale: "0.75"
+                    "imad": {
+                        "left": "13%",
+                        "top": "58%",
+                        "scale": "0.9"
                     },
-                    peter: {
-                        left: "63%",
-                        top: "26%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "24%",
+                        "top": "67%",
+                        "scale": "0.75"
                     },
-                    juliana: {
-                        left: "67%",
-                        top: "21%",
-                        scale: "0.75"
+                    "juliana": {
+                        "left": "9%",
+                        "top": "38%",
+                        "scale": "1"
                     },
-                    sean: {
-                        left: "28%",
-                        top: "30%",
-                        scale: "0.61"
+                    "sean": {
+                        "left": "56%",
+                        "top": "18%",
+                        "scale": "0.95"
                     },
-                    ilan: {
-                        left: "15%",
-                        top: "21%",
-                        scale: "0.9"
+                    "ilan": {
+                        "left": "46%",
+                        "top": "8%",
+                        "scale": "1.2"
                     },
-                    gnash: {
-                        left: "43%",
-                        top: "30%",
-                        scale: "1.2"
+                    "gnash": {
+                        "left": "16%",
+                        "top": "45%",
+                        "scale": "0.65"
                     },
-                    mover: {
-                        left: "40%", // Example value
-                        top: "25%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "13.6%",
+                        "top": "53.3%",
+                        "scale": "0.90"
                     }
                 },
-                maddy: {
-                    logo: {
-                        left: "15%",
-                        top: "20%",
-                        scale: "0.99"
+                "gnash": {
+                    "logo": {
+                        "left": "71%",
+                        "top": "2%",
+                        "scale": "0.91"
                     },
-                    maddy: {
-                        left: "33%",
-                        top: "40%",
-                        scale: "1.2"
+                    "imad": {
+                        "left": "18%",
+                        "top": "27%",
+                        "scale": "0.75"
                     },
-                    daniel: {
-                        left: "13%",
-                        top: "17%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "63%",
+                        "top": "26%",
+                        "scale": "0.9"
                     },
-                    gnash_rc: {
-                        left: "26%",
-                        top: "60%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "67%",
+                        "top": "21%",
+                        "scale": "0.75"
                     },
-                    lily: {
-                        left: "67%",
-                        top: "50%",
-                        scale: "0.8"
+                    "sean": {
+                        "left": "28%",
+                        "top": "30%",
+                        "scale": "0.61"
                     },
-                    juliana: {
-                        left: "29%",
-                        top: "40%",
-                        scale: "0.7"
+                    "ilan": {
+                        "left": "15%",
+                        "top": "21%",
+                        "scale": "0.9"
                     },
-                    mover: {
-                        left: "35%", // Example value
-                        top: "45%", // Example value
-                        scale: "1.0" // Example value
+                    "gnash": {
+                        "left": "43%",
+                        "top": "30%",
+                        "scale": "1.2"
+                    },
+                    "mover": {
+                        "left": "53.6%",
+                        "top": "18.4%",
+                        "scale": "0.86"
                     }
                 },
-                daniel: {
-                    logo: {
-                        left: "24%",
-                        top: "47%",
-                        scale: "0.6"
+                "maddy": {
+                    "logo": {
+                        "left": "15%",
+                        "top": "20%",
+                        "scale": "0.99"
                     },
-                    maddy: {
-                        left: "60%",
-                        top: "34%",
-                        scale: "0.8"
+                    "gnash": {
+                        "left": "43%",
+                        "top": "30%",
+                        "scale": "1.2"
                     },
-                    daniel: {
-                        left: "36%",
-                        top: "33%",
-                        scale: "1.2"
+                    "maddy": {
+                        "left": "33%",
+                        "top": "40%",
+                        "scale": "1.2"
                     },
-                    gnash_rc: {
-                        left: "28%",
-                        top: "9%",
-                        scale: "0.8"
+                    "daniel": {
+                        "left": "13%",
+                        "top": "17%",
+                        "scale": "0.9"
                     },
-                    lily: {
-                        left: "20%",
-                        top: "53%",
-                        scale: "0.7"
+                    "gnash_rc": {
+                        "left": "26%",
+                        "top": "60%",
+                        "scale": "0.8"
                     },
-                    juliana: {
-                        left: "22%",
-                        top: "11%",
-                        scale: "1"
+                    "lily": {
+                        "left": "67%",
+                        "top": "50%",
+                        "scale": "0.8"
                     },
-                    mover: {
-                        left: "30%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "imad": {
+                        "left": "18%",
+                        "top": "27%",
+                        "scale": "0.75"
+                    },
+                    "peter": {
+                        "left": "43%",
+                        "top": "70%",
+                        "scale": "0.9"
+                    },
+                    "sean": {
+                        "left": "28%",
+                        "top": "30%",
+                        "scale": "0.61"
+                    },
+                    "ilan": {
+                        "left": "15%",
+                        "top": "21%"
+                    },
+                    "juliana": {
+                        "left": "29%",
+                        "top": "40%",
+                        "scale": "0.7"
+                    },
+                    "mover": {
+                        "left": "30.0%",
+                        "top": "36.8%",
+                        "scale": "NaN"
                     }
                 },
-                gnash_rc: {
-                    logo: {
-                        left: "62%",
-                        top: "55%",
-                        scale: "0.8"
+                "daniel": {
+                    "logo": {
+                        "left": "24%",
+                        "top": "47%",
+                        "scale": "0.6"
                     },
-                    maddy: {
-                        left: "18%",
-                        top: "65%",
-                        scale: "0.6"
+                    "maddy": {
+                        "left": "60%",
+                        "top": "34%",
+                        "scale": "0.8"
                     },
-                    daniel: {
-                        left: "55%",
-                        top: "53%",
-                        scale: "0.6"
+                    "daniel": {
+                        "left": "36%",
+                        "top": "33%",
+                        "scale": "1.2"
                     },
-                    gnash_rc: {
-                        left: "46%",
-                        top: "37%",
-                        scale: "1.2"
+                    "gnash_rc": {
+                        "left": "28%",
+                        "top": "9%",
+                        "scale": "0.8"
                     },
-                    lily: {
-                        left: "26%",
-                        top: "22%",
-                        scale: "0.87"
+                    "lily": {
+                        "left": "20%",
+                        "top": "53%",
+                        "scale": "0.7"
                     },
-                    juliana: {
-                        left: "68%",
-                        top: "23%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "22%",
+                        "top": "11%",
+                        "scale": "1"
                     },
-                    mover: {
-                        left: "50%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "31.7%",
+                        "top": "31.2%",
+                        "scale": "0.85"
                     }
                 },
-                lily: {
-                    logo: {
-                        left: "67%",
-                        top: "4%",
-                        scale: "0.9"
+                "gnash_rc": {
+                    "logo": {
+                        "left": "55%",
+                        "top": "52%",
+                        "scale": "0.8"
                     },
-                    maddy: {
-                        left: "52%",
-                        top: "65%",
-                        scale: "0.84"
+                    "maddy": {
+                        "left": "18%",
+                        "top": "65%",
+                        "scale": "0.6"
                     },
-                    daniel: {
-                        left: "50%",
-                        top: "2%",
-                        scale: "0.8"
+                    "daniel": {
+                        "left": "55%",
+                        "top": "53%",
+                        "scale": "0.6"
                     },
-                    gnash_rc: {
-                        left: "60%",
-                        top: "59%",
-                        scale: "0.6"
+                    "gnash_rc": {
+                        "left": "46%",
+                        "top": "37%",
+                        "scale": "1.2"
                     },
-                    lily: {
-                        left: "44%",
-                        top: "48%",
-                        scale: "1.2"
+                    "lily": {
+                        "left": "26%",
+                        "top": "22%",
+                        "scale": "0.87"
                     },
-                    juliana: {
-                        left: "67%",
-                        top: "56%",
-                        scale: "0.9"
+                    "juliana": {
+                        "left": "68%",
+                        "top": "23%",
+                        "scale": "0.8"
                     },
-                    mover: {
-                        left: "45%", // Example value
-                        top: "50%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "45.8%",
+                        "top": "42.5%",
+                        "scale": "0.81"
                     }
                 },
-                juliana: {
-                    logo: {
-                        left: "2%",
-                        top: "48%",
-                        scale: "0.83"
+                "lily": {
+                    "logo": {
+                        "left": "67%",
+                        "top": "4%",
+                        "scale": "0.9"
                     },
-                    maddy: {
-                        left: "74%",
-                        top: "22%",
-                        scale: "0.6"
+                    "maddy": {
+                        "left": "52%",
+                        "top": "65%",
+                        "scale": "0.84"
                     },
-                    daniel: {
-                        left: "62%",
-                        top: "28%",
-                        scale: "0.8"
+                    "daniel": {
+                        "left": "50%",
+                        "top": "2%",
+                        "scale": "0.8"
                     },
-                    gnash_rc: {
-                        left: "76%",
-                        top: "58%",
-                        scale: "0.8"
+                    "gnash_rc": {
+                        "left": "60%",
+                        "top": "59%",
+                        "scale": "0.6"
                     },
-                    lily: {
-                        left: "7%",
-                        top: "30%",
-                        scale: "0.8"
+                    "lily": {
+                        "left": "44%",
+                        "top": "48%",
+                        "scale": "1.2"
                     },
-                    juliana: {
-                        left: "46%",
-                        top: "17%",
-                        scale: "1.2"
+                    "juliana": {
+                        "left": "67%",
+                        "top": "56%",
+                        "scale": "0.9"
                     },
-                    mover: {
-                        left: "40%", // Example value
-                        top: "35%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "56.7%",
+                        "top": "39.0%",
+                        "scale": "0.87"
+                    }
+                },
+                "juliana": {
+                    "logo": {
+                        "left": "2%",
+                        "top": "48%",
+                        "scale": "0.83"
+                    },
+                    "maddy": {
+                        "left": "74%",
+                        "top": "22%",
+                        "scale": "0.6"
+                    },
+                    "daniel": {
+                        "left": "62%",
+                        "top": "28%",
+                        "scale": "0.8"
+                    },
+                    "gnash_rc": {
+                        "left": "76%",
+                        "top": "58%",
+                        "scale": "0.8"
+                    },
+                    "lily": {
+                        "left": "7%",
+                        "top": "30%",
+                        "scale": "0.8"
+                    },
+                    "juliana": {
+                        "left": "46%",
+                        "top": "17%",
+                        "scale": "1.2"
+                    },
+                    "mover": {
+                        "left": "44.5%",
+                        "top": "33.8%",
+                        "scale": "0.84"
                     }
                 }
             },
-            mobile: {
-                logo: {
-                    logo: {
-                        left: "21%",
-                        top: "37%",
-                        scale: "1.3"
+            "mobile": {
+                "mover": {
+                    "logo": {
+                        "left": "39%",
+                        "top": "64%",
+                        "scale": "0.83"
                     },
-                    imad: {
-                        left: "-18%",
-                        top: "25%",
-                        scale: "0.7"
+                    "imad": {
+                        "left": "55%",
+                        "top": "60%",
+                        "scale": "0.6"
                     },
-                    peter: {
-                        left: "6%",
-                        top: "58%",
-                        scale: "0.6"
+                    "peter": {
+                        "left": "55%",
+                        "top": "70%",
+                        "scale": "1.2"
                     },
-                    sean: {
-                        left: "24%",
-                        top: "22%",
-                        scale: "0.8"
+                    "juliana": {
+                        "left": "28%",
+                        "top": "9%",
+                        "scale": "0.8"
                     },
-                    ilan: {
-                        left: "23%",
-                        top: "51%",
-                        scale: "0.5"
+                    "sean": {
+                        "left": "65%",
+                        "top": "10%",
+                        "scale": "0.7"
                     },
-                    gnash: {
-                        left: "5%",
-                        top: "38%",
-                        scale: "0.91"
+                    "ilan": {
+                        "left": "-6%",
+                        "top": "25%",
+                        "scale": "1"
                     },
-                    maddy: {
-                        left: "46%",
-                        top: "20%",
-                        scale: "0.7"
+                    "gnash": {
+                        "left": "56%",
+                        "top": "65%",
+                        "scale": "0.9"
                     },
-                    daniel: {
-                        left: "-7%",
-                        top: "48%",
-                        scale: "0.6"
-                    },
-                    gnash_rc: {
-                        left: "53%",
-                        top: "44%",
-                        scale: "0.6"
-                    },
-                    lily: {
-                        left: "47%",
-                        top: "29%",
-                        scale: "0.5"
-                    },
-                    juliana: {
-                        left: "50%",
-                        top: "56%",
-                        scale: "0.8"
-                    },
-                    mover: {
-                        left: "30%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "34.4%",
+                        "top": "40.3%",
+                        "scale": "0.86"
                     }
                 },
-                imad: {
-                    logo: {
-                        left: "36%",
-                        top: "-5%",
-                        scale: "0.5"
+                "logo": {
+                    "logo": {
+                        "left": "21%",
+                        "top": "37%",
+                        "scale": "1.3"
                     },
-                    imad: {
-                        left: "14%",
-                        top: "40%",
-                        scale: "0.9"
+                    "imad": {
+                        "left": "-18%",
+                        "top": "25%",
+                        "scale": "0.7"
                     },
-                    peter: {
-                        left: "-10%",
-                        top: "25%",
-                        scale: "0.5"
+                    "peter": {
+                        "left": "6%",
+                        "top": "58%",
+                        "scale": "0.6"
                     },
-                    sean: {
-                        left: "46%",
-                        top: "70%",
-                        scale: "0.6"
+                    "sean": {
+                        "left": "24%",
+                        "top": "22%",
+                        "scale": "0.8"
                     },
-                    ilan: {
-                        left: "-13%",
-                        top: "32%",
-                        scale: "0.5"
+                    "ilan": {
+                        "left": "23%",
+                        "top": "51%",
+                        "scale": "0.5"
                     },
-                    gnash: {
-                        left: "7%",
-                        top: "-5%",
-                        scale: "0.5"
+                    "gnash": {
+                        "left": "5%",
+                        "top": "38%",
+                        "scale": "0.91"
                     },
-                    mover: {
-                        left: "20%", // Example value
-                        top: "30%", // Example value
-                        scale: "1.0" // Example value
+                    "maddy": {
+                        "left": "46%",
+                        "top": "20%",
+                        "scale": "0.7"
+                    },
+                    "daniel": {
+                        "left": "-7%",
+                        "top": "48%",
+                        "scale": "0.6"
+                    },
+                    "gnash_rc": {
+                        "left": "53%",
+                        "top": "44%",
+                        "scale": "0.6"
+                    },
+                    "lily": {
+                        "left": "47%",
+                        "top": "29%",
+                        "scale": "0.5"
+                    },
+                    "juliana": {
+                        "left": "50%",
+                        "top": "56%",
+                        "scale": "0.8"
+                    },
+                    "mover": {
+                        "left": "-16.1%",
+                        "top": "25.2%",
+                        "scale": "0.73"
                     }
                 },
-                peter: {
-                    logo: {
-                        left: "-12%",
-                        top: "53%",
-                        scale: "0.5"
+                "imad": {
+                    "logo": {
+                        "left": "36%",
+                        "top": "-5%",
+                        "scale": "0.5"
                     },
-                    imad: {
-                        left: "55%",
-                        top: "52%",
-                        scale: "0.45"
+                    "imad": {
+                        "left": "14%",
+                        "top": "40%",
+                        "scale": "0.9"
                     },
-                    peter: {
-                        left: "34%",
-                        top: "33%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "-10%",
+                        "top": "25%",
+                        "scale": "0.5"
                     },
-                    sean: {
-                        left: "62%",
-                        top: "53%",
-                        scale: "0.4"
+                    "sean": {
+                        "left": "46%",
+                        "top": "70%",
+                        "scale": "0.6"
                     },
-                    ilan: {
-                        left: "-14%",
-                        top: "10%",
-                        scale: "0.6"
+                    "ilan": {
+                        "left": "-13%",
+                        "top": "32%",
+                        "scale": "0.5"
                     },
-                    gnash: {
-                        left: "-6%",
-                        top: "14%",
-                        scale: "0.4"
+                    "gnash": {
+                        "left": "7%",
+                        "top": "-5%",
+                        "scale": "0.5"
                     },
-                    mover: {
-                        left: "25%", // Example value
-                        top: "35%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "49.3%",
+                        "top": "0.1%",
+                        "scale": "0.55"
                     }
                 },
-                sean: {
-                    logo: {
-                        left: "20%",
-                        top: "64%",
-                        scale: "0.6"
+                "peter": {
+                    "logo": {
+                        "left": "-12%",
+                        "top": "53%",
+                        "scale": "0.5"
                     },
-                    imad: {
-                        left: "33%",
-                        top: "68%",
-                        scale: "0.6"
+                    "imad": {
+                        "left": "55%",
+                        "top": "52%",
+                        "scale": "0.45"
                     },
-                    peter: {
-                        left: "11%",
-                        top: "5%",
-                        scale: "0.65"
+                    "peter": {
+                        "left": "34%",
+                        "top": "33%",
+                        "scale": "0.9"
                     },
-                    sean: {
-                        left: "23%",
-                        top: "46%",
-                        scale: "0.9"
+                    "sean": {
+                        "left": "62%",
+                        "top": "53%",
+                        "scale": "0.4"
                     },
-                    ilan: {
-                        left: "55%",
-                        top: "46%",
-                        scale: "0.6"
+                    "ilan": {
+                        "left": "-14%",
+                        "top": "10%",
+                        "scale": "0.6"
                     },
-                    gnash: {
-                        left: "31%",
-                        top: "52%",
-                        scale: "0.6"
+                    "gnash": {
+                        "left": "-6%",
+                        "top": "14%",
+                        "scale": "0.4"
                     },
-                    mover: {
-                        left: "40%", // Example value
-                        top: "50%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "58.8%",
+                        "top": "26.8%",
+                        "scale": "0.6"
                     }
                 },
-                ilan: {
-                    logo: {
-                        left: "55%",
-                        top: "57%",
-                        scale: "0.5"
+                "mover": {
+                    "logo": {
+                        "left": "57%",
+                        "top": "10%",
+                        "scale": "0.5"
                     },
-                    imad: {
-                        left: "-5%",
-                        top: "65%",
-                        scale: "0.55"
+                    "imad": {
+                        "left": "55%",
+                        "top": "29%",
+                        "scale": "0.45"
                     },
-                    peter: {
-                        left: "39%",
-                        top: "64%",
-                        scale: "0.6"
+                    "peter": {
+                        "left": "41%",
+                        "top": "-7%",
+                        "scale": "0.4"
                     },
-                    sean: {
-                        left: "-15%",
-                        top: "10%",
-                        scale: "0.45"
+                    "sean": {
+                        "left": "26%",
+                        "top": "53%",
+                        "scale": "0.4"
                     },
-                    ilan: {
-                        left: "28%",
-                        top: "23%",
-                        scale: "0.9"
+                    "ilan": {
+                        "left": "57%",
+                        "top": "-2%",
+                        "scale": "0.6"
                     },
-                    gnash: {
-                        left: "55%",
-                        top: "36%",
-                        scale: "0.5"
+                    "gnash": {
+                        "left": "-22%",
+                        "top": "0%",
+                        "scale": "0.4"
                     },
-                    mover: {
-                        left: "30%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "19.8%",
+                        "top": "35.8%",
+                        "scale": "0.8"
                     }
                 },
-                gnash: {
-                    logo: {
-                        left: "-4%",
-                        top: "5%",
-                        scale: "0.7"
+                "sean": {
+                    "logo": {
+                        "left": "20%",
+                        "top": "64%",
+                        "scale": "0.6"
                     },
-                    imad: {
-                        left: "21%",
-                        top: "9%",
-                        scale: "0.7"
+                    "imad": {
+                        "left": "33%",
+                        "top": "68%",
+                        "scale": "0.6"
                     },
-                    peter: {
-                        left: "53%",
-                        top: "8%",
-                        scale: "0.55"
+                    "peter": {
+                        "left": "11%",
+                        "top": "5%",
+                        "scale": "0.65"
                     },
-                    sean: {
-                        left: "-13%",
-                        top: "28%",
-                        scale: "0.5"
+                    "sean": {
+                        "left": "23%",
+                        "top": "46%",
+                        "scale": "0.9"
                     },
-                    ilan: {
-                        left: "15%",
-                        top: "1%",
-                        scale: "0.4"
+                    "ilan": {
+                        "left": "55%",
+                        "top": "46%",
+                        "scale": "0.6"
                     },
-                    gnash: {
-                        left: "43%",
-                        top: "11%",
-                        scale: "0.9"
+                    "gnash": {
+                        "left": "31%",
+                        "top": "52%",
+                        "scale": "0.6"
                     },
-                    mover: {
-                        left: "25%", // Example value
-                        top: "20%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "2.8%",
+                        "top": "0.8%",
+                        "scale": "0.66"
                     }
                 },
-                maddy: {
-                    logo: {
-                        left: "15%",
-                        top: "5%",
-                        scale: "0.5"
+                "ilan": {
+                    "logo": {
+                        "left": "55%",
+                        "top": "57%",
+                        "scale": "0.5"
                     },
-                    maddy: {
-                        left: "14%",
-                        top: "40%",
-                        scale: "0.9"
+                    "imad": {
+                        "left": "-5%",
+                        "top": "65%",
+                        "scale": "0.55"
                     },
-                    daniel: {
-                        left: "-7%",
-                        top: "17%",
-                        scale: "0.5"
+                    "peter": {
+                        "left": "39%",
+                        "top": "64%",
+                        "scale": "0.6"
                     },
-                    gnash_rc: {
-                        left: "25%",
-                        top: "55%",
-                        scale: "0.5"
+                    "sean": {
+                        "left": "-15%",
+                        "top": "10%",
+                        "scale": "0.45"
                     },
-                    lily: {
-                        left: "46%",
-                        top: "69%",
-                        scale: "0.6"
+                    "ilan": {
+                        "left": "28%",
+                        "top": "23%",
+                        "scale": "0.9"
                     },
-                    juliana: {
-                        left: "0%",
-                        top: "56%",
-                        scale: "0.7"
+                    "gnash": {
+                        "left": "55%",
+                        "top": "36%",
+                        "scale": "0.5"
                     },
-                    mover: {
-                        left: "20%", // Example value
-                        top: "30%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "-19.2%",
+                        "top": "42.5%",
+                        "scale": "0.4"
                     }
                 },
-                daniel: {
-                    logo: {
-                        left: "-12%",
-                        top: "53%",
-                        scale: "0.4"
+                "gnash": {
+                    "logo": {
+                        "left": "-4%",
+                        "top": "5%",
+                        "scale": "0.7"
                     },
-                    maddy: {
-                        left: "57%",
-                        top: "34%",
-                        scale: "0.45"
+                    "imad": {
+                        "left": "21%",
+                        "top": "9%",
+                        "scale": "0.7"
                     },
-                    daniel: {
-                        left: "34%",
-                        top: "33%",
-                        scale: "0.9"
+                    "peter": {
+                        "left": "53%",
+                        "top": "8%",
+                        "scale": "0.55"
                     },
-                    gnash_rc: {
-                        left: "-7%",
-                        top: "5%",
-                        scale: "0.5"
+                    "sean": {
+                        "left": "-13%",
+                        "top": "28%",
+                        "scale": "0.5"
                     },
-                    lily: {
-                        left: "-4%",
-                        top: "66%",
-                        scale: "0.5"
+                    "ilan": {
+                        "left": "15%",
+                        "top": "1%",
+                        "scale": "0.4"
                     },
-                    juliana: {
-                        left: "-3%",
-                        top: "8%",
-                        scale: "0.5"
+                    "gnash": {
+                        "left": "43%",
+                        "top": "11%",
+                        "scale": "0.9"
                     },
-                    mover: {
-                        left: "25%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "19.2%",
+                        "top": "60.3%",
+                        "scale": "0.63"
                     }
                 },
-                gnash_rc: {
-                    logo: {
-                        left: "52%",
-                        top: "12%",
-                        scale: "0.5"
+                "maddy": {
+                    "logo": {
+                        "left": "15%",
+                        "top": "5%",
+                        "scale": "0.5"
                     },
-                    maddy: {
-                        left: "-11%",
-                        top: "17%",
-                        scale: "0.5"
+                    "maddy": {
+                        "left": "14%",
+                        "top": "40%",
+                        "scale": "0.9"
                     },
-                    daniel: {
-                        left: "55%",
-                        top: "59%",
-                        scale: "0.5"
+                    "daniel": {
+                        "left": "-7%",
+                        "top": "17%",
+                        "scale": "0.5"
                     },
-                    gnash_rc: {
-                        left: "14%",
-                        top: "28%",
-                        scale: "0.9"
+                    "gnash_rc": {
+                        "left": "25%",
+                        "top": "55%",
+                        "scale": "0.5"
                     },
-                    lily: {
-                        left: "16%",
-                        top: "16%",
-                        scale: "0.6"
+                    "lily": {
+                        "left": "46%",
+                        "top": "69%",
+                        "scale": "0.6"
                     },
-                    juliana: {
-                        left: "57%",
-                        top: "14%",
-                        scale: "0.4"
+                    "juliana": {
+                        "left": "0%",
+                        "top": "56%",
+                        "scale": "0.7"
                     },
-                    mover: {
-                        left: "30%", // Example value
-                        top: "35%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "15.5%",
+                        "top": "40.3%",
+                        "scale": "0.62"
                     }
                 },
-                lily: {
-                    logo: {
-                        left: "35%",
-                        top: "61%",
-                        scale: "0.5"
+                "daniel": {
+                    "logo": {
+                        "left": "-12%",
+                        "top": "53%",
+                        "scale": "0.4"
                     },
-                    maddy: {
-                        left: "47%",
-                        top: "62%",
-                        scale: "0.6"
+                    "maddy": {
+                        "left": "57%",
+                        "top": "34%",
+                        "scale": "0.45"
                     },
-                    daniel: {
-                        left: "16%",
-                        top: "2%",
-                        scale: "0.55"
+                    "daniel": {
+                        "left": "34%",
+                        "top": "33%",
+                        "scale": "0.9"
                     },
-                    gnash_rc: {
-                        left: "-10%",
-                        top: "50%",
-                        scale: "0.6"
+                    "gnash_rc": {
+                        "left": "-7%",
+                        "top": "5%",
+                        "scale": "0.5"
                     },
-                    lily: {
-                        left: "23%",
-                        top: "46%",
-                        scale: "0.9"
+                    "lily": {
+                        "left": "-4%",
+                        "top": "66%",
+                        "scale": "0.5"
                     },
-                    juliana: {
-                        left: "31%",
-                        top: "1%",
-                        scale: "0.6"
+                    "juliana": {
+                        "left": "-3%",
+                        "top": "8%",
+                        "scale": "0.5"
                     },
-                    mover: {
-                        left: "25%", // Example value
-                        top: "40%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "10.8%",
+                        "top": "33.2%",
+                        "scale": "0.54"
                     }
                 },
-                juliana: {
-                    logo: {
-                        left: "3%",
-                        top: "69%",
-                        scale: "0.6"
+                "gnash_rc": {
+                    "logo": {
+                        "left": "52%",
+                        "top": "12%",
+                        "scale": "0.5"
                     },
-                    maddy: {
-                        left: "16%",
-                        top: "3%",
-                        scale: "0.4"
+                    "maddy": {
+                        "left": "-11%",
+                        "top": "17%",
+                        "scale": "0.5"
                     },
-                    daniel: {
-                        left: "12%",
-                        top: "62%",
-                        scale: "0.7"
+                    "daniel": {
+                        "left": "55%",
+                        "top": "59%",
+                        "scale": "0.5"
                     },
-                    gnash_rc: {
-                        left: "54%",
-                        top: "23%",
-                        scale: "0.4"
+                    "gnash_rc": {
+                        "left": "14%",
+                        "top": "28%",
+                        "scale": "0.9"
                     },
-                    lily: {
-                        left: "-13%",
-                        top: "30%",
-                        scale: "0.5"
+                    "lily": {
+                        "left": "16%",
+                        "top": "16%",
+                        "scale": "0.6"
                     },
-                    juliana: {
-                        left: "24%",
-                        top: "28%",
-                        scale: "0.9"
+                    "juliana": {
+                        "left": "57%",
+                        "top": "14%",
+                        "scale": "0.4"
                     },
-                    mover: {
-                        left: "20%", // Example value
-                        top: "35%", // Example value
-                        scale: "1.0" // Example value
+                    "mover": {
+                        "left": "30.5%",
+                        "top": "24.3%",
+                        "scale": "0.57"
+                    }
+                },
+                "lily": {
+                    "logo": {
+                        "left": "35%",
+                        "top": "61%",
+                        "scale": "0.5"
+                    },
+                    "maddy": {
+                        "left": "47%",
+                        "top": "62%",
+                        "scale": "0.6"
+                    },
+                    "daniel": {
+                        "left": "16%",
+                        "top": "2%",
+                        "scale": "0.55"
+                    },
+                    "gnash_rc": {
+                        "left": "-10%",
+                        "top": "50%",
+                        "scale": "0.6"
+                    },
+                    "lily": {
+                        "left": "23%",
+                        "top": "46%",
+                        "scale": "0.9"
+                    },
+                    "juliana": {
+                        "left": "31%",
+                        "top": "1%",
+                        "scale": "0.6"
+                    },
+                    "mover": {
+                        "left": "23.7%",
+                        "top": "37.0%",
+                        "scale": "0.63"
+                    }
+                },
+                "juliana": {
+                    "logo": {
+                        "left": "3%",
+                        "top": "69%",
+                        "scale": "0.6"
+                    },
+                    "maddy": {
+                        "left": "16%",
+                        "top": "3%",
+                        "scale": "0.4"
+                    },
+                    "daniel": {
+                        "left": "12%",
+                        "top": "62%",
+                        "scale": "0.7"
+                    },
+                    "gnash_rc": {
+                        "left": "54%",
+                        "top": "23%",
+                        "scale": "0.4"
+                    },
+                    "lily": {
+                        "left": "-13%",
+                        "top": "30%",
+                        "scale": "0.5"
+                    },
+                    "juliana": {
+                        "left": "24%",
+                        "top": "28%",
+                        "scale": "0.9"
+                    },
+                    "mover": {
+                        "left": "16.0%",
+                        "top": "35.8%",
+                        "scale": "0.58"
                     }
                 }
             }
@@ -5658,6 +5803,10 @@ var Ms = (rt, St, it) => (St in rt ? vl(rt, St, { enumerable: !0, configurable: 
                     a = p.parentElement.getAttribute("bubble-name") || p.getAttribute("bubble-name"),
                     g = c.getAttribute("bubble-name"),
                     m = (y = hl[Mr ? "desktop" : "mobile"][g]) == null ? void 0 : y[a];
+                    console.log(g)
+                    console.log(a)
+                    console.log(hl[Mr ? "desktop" : "mobile"][g])
+                    console.log(m)
                 u(c, m), et.to(c, Ds(Cs({}, m), { duration: d.duration, ease: d.easing }));
             }
             function o(c) {
