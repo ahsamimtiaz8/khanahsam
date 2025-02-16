@@ -4801,8 +4801,8 @@ var Ms = (rt, St, it) => (St in rt ? vl(rt, St, { enumerable: !0, configurable: 
                         "scale": "0.8"
                     },
                     "sean": {
-                        "left": "65%",
-                        "top": "10%",
+                        "left": "38%",
+                        "top": "14%",
                         "scale": "0.7"
                     },
                     "ilan": {
